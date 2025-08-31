@@ -1,3 +1,3 @@
 # ApkModDocument
 
-Manual Method for Bypassing Pairi Android.
+Manual Method for Bypassing com.pairip.licensecheck android apk
