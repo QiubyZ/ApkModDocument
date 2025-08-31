@@ -86,7 +86,7 @@ method public onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
 
 ```
 
-Insert the smali code below into **ILicenseV2ResultListener$Stub.smali**
+Insert the smali code below into **onTransact** method in **ILicenseV2ResultListener$Stub.smali** 
 
 ```smali
     # ✅ BYPASS: Cek jika ini license verification (code = 1)
