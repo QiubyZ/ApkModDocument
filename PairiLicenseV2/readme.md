@@ -1,4 +1,5 @@
 # Bypass ILicenseV2ResultListener
+![ss](https://github.com/QiubyZ/ApkModDocument/blob/main/PairiLicenseV2/Screenshot_20250831-221800.png)
 
 ```smali
     # ✅ BYPASS: Cek jika ini license verification (code = 1)
