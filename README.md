@@ -1,3 +1,3 @@
 # ApkModDocument
 
-Bypassing Pairi LicenseV2 for Android
+Manual Method for Bypassing Pairi Android.
